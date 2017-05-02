@@ -1,0 +1,24 @@
+{
+  "name": "html5-audio-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "echo \"Web Server about to run\" && reload -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swolebrain/html5-audio-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swolebrain/html5-audio-player/issues"
+  },
+  "homepage": "https://github.com/Swolebrain/html5-audio-player#readme",
+  "dependencies": {
+    "reload": "^1.1.3"
+  }
+}
